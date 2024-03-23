@@ -55,6 +55,4 @@ jobs:
         command: quickview,cves
         only-severities: critical,high
         sarif-file: scout-report.sarif
-
       
- 
