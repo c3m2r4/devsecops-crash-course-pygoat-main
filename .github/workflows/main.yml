@@ -54,3 +54,4 @@ jobs:
         sh install-scout.sh
         docker scout quickview
         docker scout cves
+        
